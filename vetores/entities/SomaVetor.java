@@ -1,4 +1,4 @@
-package vetores;
+package vetores.entities;
 
 import java.util.Locale;
 import java.util.Scanner;
