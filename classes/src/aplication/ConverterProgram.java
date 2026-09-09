@@ -2,7 +2,6 @@ package aplication;
 
 import entities.CurrencyConverter;
 
-import java.util.Currency;
 import java.util.Locale;
 import java.util.Scanner;
 

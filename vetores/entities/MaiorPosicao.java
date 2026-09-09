@@ -26,5 +26,6 @@ public class MaiorPosicao {
         }
         System.out.println("maior valor: " + maior);
         System.out.println("posição do maior valor: " + posicao);
+        sc.close();
     }
 }

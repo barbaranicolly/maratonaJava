@@ -16,7 +16,7 @@ public class AlturasPrograma {
             int menores = 0;
             double soma = 0;
         for (int i=0;i<n;i++){
-            System.out.println("dados da " + i + "pessoa:"  );
+            System.out.println("dados da " + (i + 1) + "pessoa:"  );
             System.out.println("nome: ");
             String nome = sc.nextLine();
             sc.nextLine();
